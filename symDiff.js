@@ -32,5 +32,5 @@ function sym(args) {
 }
 
 
-
+//test input
 sym([1, 2,1,1, 5], [2, 3, 5], [3,3, 4, 5]);
